@@ -1,0 +1,50 @@
+[
+    {
+      "id": 1,
+      "image": "sillycat.png"
+    },
+    {
+      "id": 2,
+      "image": "doctorcat.png"    
+    },
+    {
+      "id": 3,
+      "image": "halfcat.png"
+    },
+    {
+      "id": 4,
+      "image": "weirdcat.png" 
+    },
+    {
+      "id": 5,
+      "image": "sadcat.png"
+    },
+    {
+      "id": 6,
+      "image": "smallcat.png"
+    },
+    {
+      "id": 7,
+      "image": "fatcat.png"
+    },
+    {
+      "id": 8,
+      "image": "flyingballcat.png"
+    },
+    {
+      "id": 9,
+      "image": "trumpcat.png"
+    },
+    {
+      "id": 10,
+      "image": "happycat.png"
+    },
+    {
+      "id": 11,
+      "image": "hungrycat.png"
+    },
+    {
+      "id": 12,
+      "image": "bigearcat.png"
+    }
+  ]
